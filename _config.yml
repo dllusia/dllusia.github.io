@@ -1,21 +1,21 @@
 # Site wide configuration
 
-title: Site Title
+title: Diego Llusia
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Diego Llusia
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: #DiegoLlusia
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  researchgate: #https://www.researchgate.net/profile/Diego_Llusia
   mendeley: #username
   google:
     plus: #username

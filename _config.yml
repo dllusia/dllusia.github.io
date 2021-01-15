@@ -7,15 +7,15 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Diego Llusia
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  avatar: bio-photo.jpeg
+  bio: "Bioacoustics and Climate change"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #DiegoLlusia
+  twitter: DiegoLlusia
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #https://www.researchgate.net/profile/Diego_Llusia
+  researchgate: https://www.researchgate.net/profile/Diego_Llusia
   mendeley: #username
   google:
     plus: #username
